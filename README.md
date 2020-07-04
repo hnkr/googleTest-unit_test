@@ -7,7 +7,6 @@
 
 
 ## Requirements
-- Ubuntu
 - CMake (version > 3.15.2)
 
 ## Projects
