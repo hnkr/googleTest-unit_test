@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/googletest-prefix/src/googletest-stamp/googletest-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

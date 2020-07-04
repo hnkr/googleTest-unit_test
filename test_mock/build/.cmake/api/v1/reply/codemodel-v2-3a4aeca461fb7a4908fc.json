@@ -1,0 +1,148 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "googletest_R1100",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "googletest_R1100",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "APP_SOURCES",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "APP_SOURCES",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "MOCK",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MOCK",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2,
+						3
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "googletest-download",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "googletest::@b8b3bb5739ec127db086",
+					"jsonFile" : "target-googletest-Debug-c765a82bc8d31f60205b.json",
+					"name" : "googletest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "mock_interface::@364291bbe815c108d5e0",
+					"jsonFile" : "target-mock_interface-Debug-7f09e32dc945c40f0202.json",
+					"name" : "mock_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_mock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_mock-Debug-c1fad811130142dd0250.json",
+					"name" : "test_mock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "user_app::@879f8092fff318d5df54",
+					"jsonFile" : "target-user_app-Debug-5b0961de98ec0c032375.json",
+					"name" : "user_app",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/build",
+		"source" : "/home/hunkar/Desktop/gtest_exmpl/test_mock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

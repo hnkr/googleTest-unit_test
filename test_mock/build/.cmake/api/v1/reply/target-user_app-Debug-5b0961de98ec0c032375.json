@@ -1,0 +1,124 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "APP_SOURCES/libuser_app.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include_directories",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"APP_SOURCES/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 4,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 5,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g  "
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/googletest_R1100/googletest/googletest/include"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/googletest_R1100/googletest/googlemock/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/hunkar/Desktop/gtest_exmpl/test_mock/APP_SOURCES/inc"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"id" : "user_app::@879f8092fff318d5df54",
+	"name" : "user_app",
+	"nameOnDisk" : "libuser_app.a",
+	"paths" : 
+	{
+		"build" : "APP_SOURCES",
+		"source" : "APP_SOURCES"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "APP_SOURCES/src/test_packet.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "APP_SOURCES/src/interface_app.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

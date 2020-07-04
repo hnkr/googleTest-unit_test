@@ -1,0 +1,12 @@
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/CMakeFiles/rebuild_cache.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/CMakeFiles/test_mock.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/CMakeFiles/edit_cache.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/CMakeFiles/rebuild_cache.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/CMakeFiles/googletest.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/googletest_R1100/CMakeFiles/edit_cache.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/APP_SOURCES/CMakeFiles/rebuild_cache.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/APP_SOURCES/CMakeFiles/user_app.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/APP_SOURCES/CMakeFiles/edit_cache.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/MOCK/CMakeFiles/rebuild_cache.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/MOCK/CMakeFiles/mock_interface.dir
+/home/hunkar/Desktop/gtest_exmpl/test_mock/build/MOCK/CMakeFiles/edit_cache.dir

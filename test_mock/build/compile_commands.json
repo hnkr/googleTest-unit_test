@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/hunkar/Desktop/gtest_exmpl/test_mock/build",
+  "command": "/usr/bin/c++   -I../googletest_R1100/googletest/googletest/include -I../googletest_R1100/googletest/googlemock/include -I../APP_SOURCES/inc -I../APP_SOURCES -I../MOCK/inc  -g   -o CMakeFiles/test_mock.dir/test_mock_unit.cpp.o -c /home/hunkar/Desktop/gtest_exmpl/test_mock/test_mock_unit.cpp",
+  "file": "/home/hunkar/Desktop/gtest_exmpl/test_mock/test_mock_unit.cpp"
+},
+
+{
+  "directory": "/home/hunkar/Desktop/gtest_exmpl/test_mock/build",
+  "command": "/usr/bin/c99-gcc  -I../googletest_R1100/googletest/googletest/include -I../googletest_R1100/googletest/googlemock/include -I../APP_SOURCES/inc  -g   -o APP_SOURCES/CMakeFiles/user_app.dir/src/test_packet.c.o   -c /home/hunkar/Desktop/gtest_exmpl/test_mock/APP_SOURCES/src/test_packet.c",
+  "file": "/home/hunkar/Desktop/gtest_exmpl/test_mock/APP_SOURCES/src/test_packet.c"
+},
+
+{
+  "directory": "/home/hunkar/Desktop/gtest_exmpl/test_mock/build",
+  "command": "/usr/bin/c99-gcc  -I../googletest_R1100/googletest/googletest/include -I../googletest_R1100/googletest/googlemock/include -I../APP_SOURCES/inc  -g   -o APP_SOURCES/CMakeFiles/user_app.dir/src/interface_app.c.o   -c /home/hunkar/Desktop/gtest_exmpl/test_mock/APP_SOURCES/src/interface_app.c",
+  "file": "/home/hunkar/Desktop/gtest_exmpl/test_mock/APP_SOURCES/src/interface_app.c"
+},
+
+{
+  "directory": "/home/hunkar/Desktop/gtest_exmpl/test_mock/build",
+  "command": "/usr/bin/c++   -I../googletest_R1100/googletest/googletest/include -I../googletest_R1100/googletest/googlemock/include -I../MOCK/inc -I../APP_SOURCES/inc  -g   -o MOCK/CMakeFiles/mock_interface.dir/src/interface_app.cpp.o -c /home/hunkar/Desktop/gtest_exmpl/test_mock/MOCK/src/interface_app.cpp",
+  "file": "/home/hunkar/Desktop/gtest_exmpl/test_mock/MOCK/src/interface_app.cpp"
+}
+]
